@@ -29,3 +29,14 @@ Run:
    ```bash
    git clone https://github.com/yourusername/PredictiveCodingProject.git
    cd PredictiveCodingProject
+   Run the simulation:
+   julia --project main.jl
+
+   Future Work:
+
+Extend the model to include disrupted precision (simulate clinical populations).
+
+Compare multiple hierarchical levels.
+
+   
+   

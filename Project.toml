@@ -1,0 +1,9 @@
+name = "PredictiveCodingProject"
+version = "0.1.0"
+authors = ["Mariam <your_email@example.com>"]
+description = "A simple hierarchical predictive coding simulation in Julia"
+license = "MIT"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-686f-5f34-9a5e-4a64f3dc9020"
